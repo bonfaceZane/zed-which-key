@@ -1,0 +1,6 @@
+id = "zed-which-key"
+name = "Zed Which Key"
+version = "0.0.1"
+schema_version = 1
+authors = ["Author <author@example.com>"]
+description = "Which Key extension for Zed"
