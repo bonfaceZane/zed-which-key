@@ -2,5 +2,16 @@ id = "zed-which-key"
 name = "Zed Which Key"
 version = "0.0.1"
 schema_version = 1
-authors = ["Author <author@example.com>"]
+authors = ["Bonface Zane"]
 description = "Which Key extension for Zed"
+repository = "git@github.com:bonfaceZane/zed-which-key.git"
+
+[grammars]
+
+[languages]
+
+[themes]
+
+[[keymaps]]
+[keymaps.normal]
+"space" = "zed-which-key::toggle"
